@@ -21,12 +21,7 @@
 
 ### *Используемые библиотеки:*
 - pandas;
-- plotly
-- matplotlib;
-- seaborn;
-- numpy;
-- scipy;
-- math.
+- sqlalchemy.
 
 ### **Проект завершен**
 
